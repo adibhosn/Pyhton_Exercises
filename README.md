@@ -1,2 +1,2 @@
 # Pyhton_Pandas_Exercises
- Learning Pandas
+ Learning Pandas in order to deepen my knowledge of DataScience
